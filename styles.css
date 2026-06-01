@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.card-container{
+	display:grid;
+}
+.cards{
+	border:10px solid #ccc;
+	background-color:#fafafa;
+}
+.heading{
+	font-size:1.5em;
+}
+.desc{
+	font-size:0.75em;
+}
